@@ -205,13 +205,13 @@ skills:
         level: 95%
 
       - name: pandas, numpy, scipy, matplotlib, seaborn
-        level: 95%
+        level: 90%
 
       - name: scikit-learn, xgboost, lightgbm, catboost
-        level: 95%
+        level: 90%
 
       - name: mlflow
-        level: 95%
+        level: 85%
 
       - name: Git, GitHub, GitLab
         level: 85%
