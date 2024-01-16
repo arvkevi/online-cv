@@ -3,263 +3,225 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kevin Arvai
+    tagline: Senior Scientist, ML
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: arvkevi@gmail.com
+    # phone:
+    # timezone: America/Eastern Timezone
+    # citizenship: USA
+    linkedin: kevinarvai
+    github: arvkevi
+    twitter: '@arvkevi'
+    stack-overflow: 4541548/kevin # Number/Username, e.g. 123456/alandoe
+    # website: scholar.google.com/citations?user=lroXk_4AAAAJ&hl=en
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
+    #     - idiom: Spanish
+    #       level: Some
 
     interests:
-      title: Interests
+      title: awards
       info:
-        - item: Climbing
-          link:
+        - item: Open Humans project grant
+          link: https://blog.openhumans.org/2018/02/20/interviewing-project-grant-awardee-kevin-arvai/
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a data scientist with ten years of experience building and deploying machine learning models.
+      I aspire to lead a team of data scientists passionate about using machine learning to improve human health.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: MSc in Computational Biology
+        university: George Mason University
+        time: 2011 - 2014
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - degree: BSc in Biology
+        university: Lycoming College
+        time: 2004 - 2008
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Scientist, Machine Learning
+        time: 2022 - Present
+        company: Exact Sciences, Madison, WI [remote]
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Responsible for developing machine learning pipelines for the multi-cancer early detection product including a framework for processing and modeling multimodal biological and demographic data for large clinical cohorts.
+            - Developed an overarching machine learning classifier which will be deployed for a laboratory developed test in a real-world evidence setting.
+            - Developed a Python package adopted by cross-functional teams that serves as a one-stop-shop for high-quality, reusable implementations of everyday tasks in the machine learning life cycle.
+            - Defined a decision threshold framework for the multi-cancer early detection machine learning classifier.
+            - Mentor other data scientists.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: Senior Data Scientist, Team Lead
+        time: 2020 - 2022
+        company: DataRobot, Washington, DC
+        details: |
+            Led a team of data scientists responsible for development, execution, and delivery of machine learning models and data science applications for government public health agencies.
+            - My team was responsible for all data science deliverables on a $5M contract, including data engineering, analysis, and visualization. 
+            - We were also responsible for continuous deployment of a time series forecasting application for COVID-19.
+            - Developed an application to assist a state government agency to decide which counties to distribute Naloxone, such that it would have the highest impact. Implemented the solution by studying peer-reviewed literature, statistical modeling, and linear programming.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: Senior Data Scientist
+        time: 2018 - 2020
+        company: GeneDx, Gaithersburg, MD
+        details: |
+            I was a project lead on the data science team. I established the direction for publications, application development, and deployment.
+            - Built a gradient-boosted decision tree model to predict the likelihood of identifying a molecular diagnosis in a patient. Trained on phenotypes from 46,314 patients, it achieved 0.42 average precision (random = 0.26) on a held-out test set of 9,336 patients. 
+            - Implemented named entity recognition (NER) using natural language processing (NLP) tools to reduce the amount of time genetic counselors spent abstracting patient phenotypes from pdfs by 20%.
+            - Developed the first publicly-available software at GeneDx. It quantifies the semantic similarity between two or more sets of phenotypes. It has been deployed to reduce the number of genetic variants for manual review by 18%: github.com/genedx/phenopy
+
+      - role: Data Scientist
+        time: 2015 - 2018
+        company: GeneDx, Gaithersburg, MD
+        details: |
+            Lead the study design, data analysis, and publication of an ovarian cancer case-control study. Logistic regression was performed to quantify the association of genetic variants with ovarian cancer.
+            - Set prices for complex genetic tests using linear optimization.
+            - Primary data analyst role on several abstracts and publications.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I like to interact with the Python and machine learning communities in my free time.
+      Here are some places you can find my work outside of my day job.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Kaggle
+        link: "kaggle.com/kevinarvai"
+        tagline: "I have participated participated on Kaggle in spurts over the years.
+                  I recieved my first competition medal in 2023, created a highly-upvoted genomic dataset, and have several tutorial-style kernels."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Real Python
+        link: "realpython.com/team/karvai/"
+        tagline: "I designed a tutorial on how to perform k-means clustering in Python."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Medium
+        link: "medium.com/@arvkevi"
+        tagline: "I have a few articles on Medium, including an old, popular one on 
+                  tuning the decision threshold for a binary classifier."
+      
+      - title: Imputer
+        link: "openimpute.com"
+        tagline: "I developed and currently maitain a website that performs genotype
+          imputation for direct-to-consumer genetic data for Open Humans members."
 
 oss:
-    title: OSS Contributions
+    title: Open-Source Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I enjoy building projects on GitHub and contributing to other open-source projects. Here are some I'm most proud of:
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: kneed
+        link: "github.com/arvkevi/kneed"
+        tagline: "A Python package for finding the knee point of a curve. Over 8 million downloads on PyPI"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ezancestry
+        link: "github.com/arvkevi/ezancestry"
+        tagline: "A framework to predict the genetic ancestry of a person based on their direct-to-consumer genetic data using machine learning"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: phenopy
+        link: "github.com/GeneDx/phenopy"
+        tagline: "Semantic similarity for the Human Phenotype Ontology"
 
 publications:
-    title: Publications
+    title: Selected Abstracts & Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      [My Google Scholar page](https://scholar.google.com/citations?user=lroXk_4AAAAJ&hl=en) has a full list of peer-reviewed publications.
     papers:
-      - title: The Art of Computer Programming
+      - title: Improved sensitivity of a multi-analyte early detection test based on mutation, methylation, aneuploidy, and protein biomarkers.
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: V Gianullin, L Hagmann, K Arvai, et al.
+        conference: CANCER PREVENTION RESEARCH 16 (1), 7-8; 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Molecular diagnostic yield of exome sequencing in patients with cerebral palsy
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Andrés Moreno-De-Luca, Francisca Millan, Denis R Pesacreta, et al.
+        conference: Jama 325 (5), 467-475; 2021
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Evidence for 28 genetic disorders discovered by combining healthcare and research data
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: J Kaplanis, KE Samocha, L Wiel, Z Zhang, KJ Arvai, et al.
+        conference: Nature 586 (7831), 757-762; 2020
+
+      - title: Age-adjusted association of homologous recombination genes with ovarian cancer using clinical exomes as controls
+        link: "#"
+        authors: KJ Arvai, ME Roberts, RI Torene, et al.
+        conference: Hereditary cancer in clinical practice 17, 1-7; 2019
+
+certifications:
+      title: Certifications
+      list:
+        - name: Deep Learning Nanodegree Foundation
+          start: 2017
+          end: 2017
+          organization: Udacity
+          credentialid: 
+          # credentialurl: www.google.com
+          # credentialname: Google
+          # details: |
+          #   Details about cert. Lorem ipsum dolor sit amet, consectetur
+        - name: Histotechnologist
+          start: 2011
+          end: 2013
+          organization: ASCP
+          credentialid:
+          # credentialurl: www.github.com
+          # credentialname: Github
+          # details: |
+          #   Older certification. Lorem ipsum dolor sit amet, consectetur
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: pandas, numpy, scipy, matplotlib, seaborn
+        level: 95%
+
+      - name: scikit-learn, xgboost, lightgbm, catboost
+        level: 95%
+
+      - name: mlflow
+        level: 95%
+
+      - name: Git, GitHub, GitLab
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
+
+      - name: Spark, R, Docker
+        level: 30%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
