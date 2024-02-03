@@ -115,21 +115,21 @@ projects:
       Here are some places you can find my work outside of my day job.
     assignments:
       - title: Kaggle
-        link: "kaggle.com/kevinarvai"
+        link: "https://kaggle.com/kevinarvai"
         tagline: "I have participated participated on Kaggle in spurts over the years.
                   I recieved my first competition medal in 2023, created a highly-upvoted genomic dataset, and have several tutorial-style kernels."
 
       - title: Real Python
-        link: "realpython.com/team/karvai/"
+        link: "https://realpython.com/team/karvai/"
         tagline: "I designed a tutorial on how to perform k-means clustering in Python."
 
       - title: Medium
-        link: "medium.com/@arvkevi"
+        link: "https://medium.com/@arvkevi"
         tagline: "I have a few articles on Medium, including an old, popular one on 
                   tuning the decision threshold for a binary classifier."
       
       - title: Imputer
-        link: "openimpute.com"
+        link: "https://openimpute.com"
         tagline: "I developed and currently maitain a website that performs genotype
           imputation for direct-to-consumer genetic data for Open Humans members."
 
@@ -139,15 +139,15 @@ oss:
       I enjoy building projects on GitHub and contributing to other open-source projects. Here are some I'm most proud of:
     contributions:
       - title: kneed
-        link: "github.com/arvkevi/kneed"
+        link: "https://github.com/arvkevi/kneed"
         tagline: "A Python package for finding the knee point of a curve. Over 8 million downloads on PyPI"
 
       - title: ezancestry
-        link: "github.com/arvkevi/ezancestry"
+        link: "https://github.com/arvkevi/ezancestry"
         tagline: "A framework to predict the genetic ancestry of a person based on their direct-to-consumer genetic data using machine learning"
 
       - title: phenopy
-        link: "github.com/GeneDx/phenopy"
+        link: "https://github.com/GeneDx/phenopy"
         tagline: "Semantic similarity for the Human Phenotype Ontology"
 
 publications:
