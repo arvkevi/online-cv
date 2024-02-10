@@ -77,7 +77,7 @@ experiences:
         company: Exact Sciences, Madison, WI [remote]
         details: |
             Responsible for developing machine learning pipelines for the multi-cancer early detection product including a framework for processing and modeling multimodal biological and demographic data for large clinical cohorts.
-            - Developed an overarching machine learning classifier which will be deployed for a laboratory developed test in a real-world evidence setting.
+            - Developed a multimodal machine learning classifier which will be deployed for a laboratory developed test in a real-world evidence setting.
             - Developed a Python package adopted by cross-functional teams that serves as a one-stop-shop for high-quality, reusable implementations of everyday tasks in the machine learning life cycle.
             - Defined a decision threshold framework for the multi-cancer early detection machine learning classifier.
             - Mentor other data scientists.
