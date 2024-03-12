@@ -72,8 +72,13 @@ education:
 experiences:
     title: Experience
     info:
+      - role: Staff Bioinformatics Scientist
+        time: 2024 - Present
+        company: Exact Sciences, Madison, WI [remote]
+        # details: |        
+
       - role: Senior Scientist, Machine Learning
-        time: 2022 - Present
+        time: 2022 - 2024
         company: Exact Sciences, Madison, WI [remote]
         details: |
             Responsible for developing machine learning pipelines for the multi-cancer early detection product including a framework for processing and modeling multimodal biological and demographic data for large clinical cohorts.
@@ -178,6 +183,13 @@ publications:
 certifications:
       title: Certifications
       list:
+        - name: Machine Learning for Business Decision optimization
+          start: 2024
+          end: 2024
+          organization: Weights and Biases
+          credentialurl: https://images.credential.net/embed/7qwrxtaa.png
+          details: |
+            The course taught me how to translate model predictions into actionable insights.  
         - name: Deep Learning Nanodegree Foundation
           start: 2017
           end: 2017
