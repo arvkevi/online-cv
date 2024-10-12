@@ -231,6 +231,9 @@ skills:
       - name: Git, GitHub, GitLab
         level: 85%
 
+      - name: PyTorch
+        level: 80%
+
       - name: SQL
         level: 60%
 
