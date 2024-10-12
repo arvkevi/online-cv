@@ -77,7 +77,7 @@ experiences:
         company: Exact Sciences, Madison, WI [remote]
         details: |
             - Designed a reflex framework for a multi-cancer early detection cancer test. Reduced the number of additional tests by 80% while maintaining the performance requirements of the test.
-            - Developing deep learning approaches to for earlier cancer detection.
+            - Developing deep learning approaches for earlier cancer detection.
             - Member of the Exact Sciences Mentorship Program.
 
       - role: Senior Scientist, Machine Learning
@@ -85,7 +85,7 @@ experiences:
         company: Exact Sciences, Madison, WI [remote]
         details: |
             Responsible for developing machine learning pipelines for the multi-cancer early detection product including a framework for processing and modeling multimodal biological and demographic data for large clinical cohorts.
-            - Developed a multimodal machine learning classifier which has been deployed for the laboratory developed test, Cancerguard, in a real-world evidence setting, the FALCON study](https://www.exactsciences.com/newsroom/press-releases/exact-sciences-announces-first-patient-enrolled-in-its-multi-cancer-early-detection-mced-falcon).
+            - Developed a multimodal machine learning classifier which has been deployed for the laboratory developed test, Cancerguard, in a real-world evidence setting, the [FALCON study](https://www.exactsciences.com/newsroom/press-releases/exact-sciences-announces-first-patient-enrolled-in-its-multi-cancer-early-detection-mced-falcon).
             - Developed a Python package adopted by cross-functional teams that serves as a one-stop-shop for high-quality, reusable implementations of everyday tasks in the machine learning life cycle.
             - Defined a decision threshold framework for the multi-cancer early detection machine learning classifier.
             - Mentor other data scientists.
